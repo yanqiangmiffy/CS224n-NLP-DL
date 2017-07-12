@@ -11,7 +11,7 @@
 			<tr>
 				<td>Lecture01-自然语言和深度学习的介绍</td>
 				<td>2017-01-10</td>
-				<td>推荐读物：
+				<td>推荐读物：</br>
 					1.[线性代数回顾](http://cs229.stanford.edu/section/cs229-linalg.pdf)
 					2.[概率论回顾](http://cs229.stanford.edu/section/cs229-prob.pdf)
 					3.[凸优化回顾](http://cs229.stanford.edu/section/cs229-cvxopt.pdf)

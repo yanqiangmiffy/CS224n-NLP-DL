@@ -13,11 +13,10 @@
 				<td>2017-01-10</td>
 				<td>
 				推荐读物：</br>
-				
-				1.[线性代数回顾](http://cs229.stanford.edu/section/cs229-linalg.pdf)
-					2.[概率论回顾](http://cs229.stanford.edu/section/cs229-prob.pdf)
-					3.[凸优化回顾](http://cs229.stanford.edu/section/cs229-cvxopt.pdf)
-					4.[更多优化算法（ 随机梯度下降法SGD）回顾](http://cs231n.github.io/optimization-1/)
+				<a href="http://cs229.stanford.edu/section/cs229-linalg.pdf">1.线性代数回顾</a>
+				<a href="http://cs229.stanford.edu/section/cs229-prob.pdf">2.[概率论回顾]</a>
+				<a href="http://cs229.stanford.edu/section/cs229-cvxopt.pdf">1.凸优化回顾</a>
+				<a href="http://cs231n.github.io/optimization-1/">1.更多优化算法（ 随机梯度下降法SGD）回顾</a>
 				</td>
 			</tr>
 	</table>

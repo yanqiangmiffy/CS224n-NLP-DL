@@ -17,6 +17,11 @@
 				<a href="http://cs229.stanford.edu/section/cs229-prob.pdf">2.概率论回顾</a></br>
 				<a href="http://cs229.stanford.edu/section/cs229-cvxopt.pdf">3.凸优化回顾</a></br>
 				<a href="http://cs231n.github.io/optimization-1/">4.更多优化算法（ 随机梯度下降法SGD）回顾</a>
+				<hr>
+				<a href="http://cs231n.github.io/python-numpy-tutorial/">Python教程</a></br>
+				<a href="https://web.stanford.edu/class/cs224n/lectures/cs224n-2017-lecture1.pdf">课幻灯片pdf</a></br>
+				<a href="http://cs231n.github.io/python-numpy-tutorial/">Python教程</a></br>
+				<a href="https://web.stanford.edu/class/cs224n/lecture_notes/cs224n-2017-notes1.pdf">课程笔记</a></br>
 				</td>
 			</tr>
 	</table>
